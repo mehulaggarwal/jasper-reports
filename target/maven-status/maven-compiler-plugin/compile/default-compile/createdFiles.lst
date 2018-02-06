@@ -1,0 +1,4 @@
+model\ProudctModel.class
+entities\Product.class
+Controller\ProductController.class
+report\ProductReport.class
